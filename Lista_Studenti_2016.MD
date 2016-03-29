@@ -10,7 +10,7 @@ Grupa: 1220F
 | Baciu Alina |https://github.com/alinabaciu||
 | Balhis Christelle|https://github.com/ChristelleBalhis/ALF||https://github.com/ChristelleBalhis/SE|
 |Bratu Madalina|https://github.com/maygirl/SE||https://github.com/maygirl/ALF|
-|Brezoaie Robert |https://github.com/robertbrezoaie/ALF||https://github.com/robertbrezoaie/SE|
+|Brezoaie Robert |https://github.com/robertbrezoaie/ALF || https://github.com/robertbrezoaie/SE |
 |Colea Alexandra||https://github.com/AlexandraColea/SE|
 |Danu Cosmin |https://github.com/danucosmin||
 |Duta Crina|https://github.com/Crinut/ALF|https://github.com/Crinut/SE|
